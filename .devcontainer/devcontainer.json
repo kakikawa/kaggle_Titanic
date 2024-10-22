@@ -1,6 +1,6 @@
 {
     // nameはcomposeのコンテナネームに合わせると管理が楽。
-    "name": "kaggle_start",
+    "name": "kaggle_Titanic",
     "dockerComposeFile": [
         // docker-compose.ymlを指定
         "../docker-compose.yml"

@@ -1,6 +1,6 @@
 services:
   anaconda:
-    container_name: "kaggle_start"
+    container_name: "kaggle_Titanic"
     # dockerイメージ
     image: continuumio/anaconda3
 
